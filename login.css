@@ -1,0 +1,24 @@
+body{
+	background-image: url(cover.jpg);
+}
+
+.login{
+	margin-left: 35%;
+	height: 350px;
+	width: 400px;
+	background-color: red;
+}
+.login input{
+	
+	margin-top: 20px;
+	height: 10px;
+	width: 250px;
+	margin: 20px auto;
+	padding: 15px;
+	color: gray;
+
+}
+.footer{
+	background-color: blue;
+	margin-top: 700px;
+}

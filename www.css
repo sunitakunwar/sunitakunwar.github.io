@@ -1,0 +1,17 @@
+body{
+	background-image: url(sunitas.jpg);
+}
+
+
+h1{
+	text-align: center;
+}
+.back{
+	margin-top: 5%;
+	margin-left: 37%;
+	
+}
+fieldset{
+	width: 40%;
+	background-color: grey;
+}
