@@ -1,0 +1,30 @@
+nav
+{
+    background-color: darkblue;
+    height:30px;
+    width:100%;
+
+}
+a{
+    color: white;
+    float: right;
+    padding:10px;
+
+}
+h1{
+    color: black;
+    margin:50px;
+    float:right;
+}
+fieldset{
+    background-color: #cce5ff;
+    width: 50%;
+    height:50%;
+    margin: 10%;
+
+}
+p{
+    float: right;
+
+
+}
